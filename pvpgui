@@ -1,0 +1,2 @@
+_G.HOHO_PVP_UI = true
+loadstring(game:HttpGet("https://raw.githubusercontent.com/m1M-Plqer819/hohohub/main/main/rp0d.lua"))()
